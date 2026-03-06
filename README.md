@@ -14,5 +14,6 @@
 - Simple dual-port BRAM
 - AXI-lite control interface
 ### Datapath and Control
+![Screenshot of Datapath and Control Arhcitecture](/photos/datapathArchitecture.png)
 ### Finite State Machine
 ![Screenshot of FSM Architecture](/photos/fsmArchitecture.png)
