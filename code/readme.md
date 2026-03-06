@@ -1,0 +1,4 @@
+# Code
+## Datapath and Control
+## Finite State Machine
+## HDMI Display
