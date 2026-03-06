@@ -13,3 +13,5 @@
 - FSM acquisition control
 - Simple dual-port BRAM
 - AXI-lite control interface
+### Datapath and Control
+### Finite State Machine
