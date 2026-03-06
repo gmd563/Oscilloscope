@@ -15,3 +15,4 @@
 - AXI-lite control interface
 ### Datapath and Control
 ### Finite State Machine
+![Screenshot of FSM Architecture](/assets/images/fsmArchitecture.png)
