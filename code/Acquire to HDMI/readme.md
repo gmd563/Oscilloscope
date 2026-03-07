@@ -1,11 +1,11 @@
 # Acquire to HDMI
-- Top-level Synthesis
-  - [<ins></ins>]()
-  - Datapath and Control
-    - [<ins></ins>]()
-  - Finite State Machine
-    - [<ins></ins>]()
-- HDMI Display
-  - [<ins></ins>]()
-- ADC Sampler
-  - [<ins></ins>]()
+## Top-level Synthesis
+[<ins>text</ins>]()
+### Datapath and Control
+[<ins>text</ins>]()
+### Finite State Machine
+[<ins>text</ins>]()
+## HDMI Display
+[<ins>text</ins>]()
+## ADC Sampler
+[<ins>text</ins>]()
