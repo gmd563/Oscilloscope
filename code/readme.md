@@ -1,5 +1,6 @@
 # Code
-## Datapath and Control
-## Finite State Machine
-## HDMI Display
+## Aquire to HDMI
+### Datapath and Control
+### Finite State Machine
+### HDMI Display
 ## Vitis Interface
