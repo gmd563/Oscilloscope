@@ -8,4 +8,4 @@
 - XDC Contraints File
   - <ins>acquireToHDMI_axi.xdc</ins>
 - Excel LUT Derivation
-  - <ins></ins>
+  - <ins>sinc wave table.xlsx</ins>
