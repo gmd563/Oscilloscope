@@ -6,7 +6,7 @@
 ### Finite State Machine
 [<ins>text</ins>]()
 ## HDMI Display
-[<ins>text</ins>]()
+[<ins>Video Timing Generator</ins>]()
 - Determines the current pixel location and produces the horizontal and verticle sync signals for display rendering.
 
 [<ins>Scope Face Generator</ins>]()
