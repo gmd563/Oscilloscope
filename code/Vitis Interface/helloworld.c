@@ -1,6 +1,6 @@
 /******************************************************************************
 * @file    helloworld.c
-* @author  Christopher Couston and Morgan Kasch
+* @author  Christopher Couston, Morgan Kasch, Grace Davis
 * @date    November 7, 2025
 *
 * @brief   Main application for controlling a custom PWM peripheral on a Zynq-7000.
