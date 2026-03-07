@@ -6,6 +6,6 @@
 - UART-Controlled Embedded Application
   - <ins>helloworld.c</ins>
 - XDC Contraints File
-  - <ins></ins>
+  - <ins>acquireToHDMI_axi.xdc</ins>
 - Excel LUT Derivation
   - <ins></ins>
