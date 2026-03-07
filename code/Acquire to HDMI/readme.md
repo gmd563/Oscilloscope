@@ -12,7 +12,10 @@
 - Detects trigger events for Channels 1 and 2 to assist Finite State Machine.
 ### Finite State Machine
 [<ins>Finite State Machine</ins>]()
-- t
+- Initializes the ADC with a reset and startup delays.
+- Controls the sampling acquisition through storage control based on Datapath trigger detection and ADC-handshake.
+- interval, and storage.
+- Regulates ADC conversion with 
 
 [<ins>Control Word Table</ins>]()
 ## HDMI Display
