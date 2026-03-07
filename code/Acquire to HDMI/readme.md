@@ -7,7 +7,7 @@
 ### Datapath and Control
 [<ins>Datapath and Control</ins>]()
 - Stores and reads ADC samples in a set of two simple dual-port BRAMs, one for each channel.
-- . 
+- Calculates the 2s compliment of BRAM output and converts those values into pixel coordinates. 
 ### Finite State Machine
 [<ins>Finite State Machine</ins>]()
 - t
