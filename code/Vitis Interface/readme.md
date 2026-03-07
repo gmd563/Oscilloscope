@@ -8,4 +8,4 @@
 - XDC Contraints File
   - [<ins>acquireToHDMI_axi.xdc</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/acquireToHDMI_axi.xdc)
 - Excel LUT Derivation
-  - <ins>sinc wave table.xlsx</ins>
+  - [<ins>sinc wave table.xlsx</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/sinc%20wave%20table.xlsx)
