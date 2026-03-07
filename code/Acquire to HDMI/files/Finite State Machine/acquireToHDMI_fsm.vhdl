@@ -1,5 +1,5 @@
 --------------------------------------------------------------------
--- Name:	Chris Coulston
+-- Name:	Grace Davis
 -- Date:	Feb 3, 2015
 -- File:	acquireToHDMI_fsm.vhdl
 -- HW:	Lab2
