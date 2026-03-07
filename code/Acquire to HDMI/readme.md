@@ -1,6 +1,6 @@
 # Acquire to HDMI
 ## Top-level Synthesis
-[<ins>text</ins>]()
+[<ins>Top-level Synthesis Module</ins>]()
 - Coordinates ADC sample acquisition, datapath processing, and HDMI display.
 
 [<ins>text</ins>]()
