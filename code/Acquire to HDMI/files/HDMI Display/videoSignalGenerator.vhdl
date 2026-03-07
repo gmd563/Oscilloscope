@@ -132,7 +132,7 @@ begin
     end process;
 
 
-    -- 3: Generate the pixelHorz signal that is used by
+    -- 3: Generate the pixelVert signal that is used by
     -- the scopeFace and other components to know which pixel on 
     -- the screen is being drawn.
     process(clk)
