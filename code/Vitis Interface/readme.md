@@ -1,6 +1,6 @@
 # Vitis Interface
 - Top-level AXI Wrapper
-  - aquireToHDMI_AXI.vhd
+  - <ins>aquireToHDMI_AXI.vhd</ins>
 - AXI-lite Peripheral Interface
 - UART-Controlled Embedded Application
 - Excel LUT Derivation
