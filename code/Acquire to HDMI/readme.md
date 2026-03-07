@@ -1,6 +1,9 @@
 # Acquire to HDMI
 ## Top-level Synthesis
 [<ins>text</ins>]()
+- t
+
+[<ins>text</ins>]()
 ### Datapath and Control
 [<ins>text</ins>]()
 ### Finite State Machine
