@@ -1,21 +1,9 @@
 --------------------------------------------------------------------
 -- Name:	Grace Davis
--- Date:	Feb 3, 2015
+-- Date:	DEC 3, 2015
 -- File:	acquireToHDMI_fsm.vhdl
--- HW:	Lab2
---	Crs:	ECE 383
 --
 -- Purp: The control unit for the audio O'scope
---
--- Documentation:	No help, though I used an example from my Digital
---						Design text book.
---
--- Academic Integrity Statement: I certify that, while others may have 
--- assisted me in brain storming, debugging and validating this program, 
--- the program itself is my own work. I understand that submitting code 
--- which is the work of other individuals is a violation of the honor   
--- code.  I also understand that if I knowingly give my original work to 
--- another individual is also a violation of the honor code. 
 ------------------------------------------------------------------------- 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
