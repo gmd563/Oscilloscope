@@ -7,7 +7,7 @@
 [<ins>text</ins>]()
 ## HDMI Display
 [<ins>text</ins>]()
-- t
+- Determines the current pixel location and produces the horizontal and verticle sync signals for display rendering.
 
 [<ins>Scope Face Generator</ins>]()
 - Assigns RGB values to a given pixel location provided by the Timing Video Generator
