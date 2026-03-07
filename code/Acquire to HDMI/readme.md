@@ -6,7 +6,8 @@
 [<ins>text</ins>]()
 ### Datapath and Control
 [<ins>text</ins>]()
-- t
+- Stores and reads ADC samples in a set of two simple dual-port BRAMs, one for each channel.
+- . 
 ### Finite State Machine
 [<ins>text</ins>]()
 ## HDMI Display
