@@ -1,6 +1,6 @@
 # Vitis Interface
 - Top-level AXI Wrapper
--   b
+  - b
 - AXI-lite Peripheral Interface
 - UART-Controlled Embedded Application
 - Excel LUT Derivation
