@@ -6,6 +6,6 @@
 - UART-Controlled Embedded Application
   - [<ins>helloworld.c</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/helloworld.c)
 - XDC Contraints File
-  - <ins>acquireToHDMI_axi.xdc</ins>
+  - [<ins>acquireToHDMI_axi.xdc</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/acquireToHDMI_axi.xdc)
 - Excel LUT Derivation
   - <ins>sinc wave table.xlsx</ins>
