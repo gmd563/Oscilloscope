@@ -4,7 +4,7 @@
 - AXI-lite Peripheral Interface
   - [<ins>aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd)
 - UART-Controlled Embedded Application
-  - <ins>helloworld.c</ins>
+  - [<ins>helloworld.c</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/helloworld.c)
 - XDC Contraints File
   - <ins>acquireToHDMI_axi.xdc</ins>
 - Excel LUT Derivation
