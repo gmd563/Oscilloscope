@@ -1,11 +1,12 @@
 # Acquire to HDMI
 ## Top-level Synthesis
 [<ins>text</ins>]()
-- t
+- Coordinates ADC sample acquisition, datapath processing, and HDMI display.
 
 [<ins>text</ins>]()
 ### Datapath and Control
 [<ins>text</ins>]()
+- t
 ### Finite State Machine
 [<ins>text</ins>]()
 ## HDMI Display
