@@ -7,8 +7,9 @@
 ### Datapath and Control
 [<ins>Datapath and Control</ins>]()
 - Stores and reads ADC samples in a set of two simple dual-port BRAMs, one for each channel.
+- Calculates the 2s compliment of BRAM output and converts those values into pixel coordinates.
+- Compares the 2s compliment pixel coordinate with the current pixel position to determine pixel display in the Scope Face Generator.
 - Identifies trigger events for channels 1 and 2
-- Calculates the 2s compliment of BRAM output and converts those values into pixel coordinates. 
 ### Finite State Machine
 [<ins>Finite State Machine</ins>]()
 - t
