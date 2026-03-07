@@ -3,13 +3,16 @@
 [<ins>Top-level Synthesis Module</ins>]()
 - Coordinates ADC sample acquisition, datapath processing, and HDMI display.
 
-[<ins>text</ins>]()
+[<ins>Top-level Synthesis Package</ins>]()
 ### Datapath and Control
-[<ins>text</ins>]()
+[<ins>Datapath and Control</ins>]()
 - Stores and reads ADC samples in a set of two simple dual-port BRAMs, one for each channel.
 - . 
 ### Finite State Machine
-[<ins>text</ins>]()
+[<ins>Finite State Machine</ins>]()
+- t
+
+[<ins>Control Word Table</ins>]()
 ## HDMI Display
 [<ins>Video Timing Generator</ins>]()
 - Determines the current pixel location and produces the horizontal and verticle sync signals for display rendering.
