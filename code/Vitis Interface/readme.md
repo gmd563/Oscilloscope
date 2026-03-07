@@ -4,5 +4,8 @@
 - AXI-lite Peripheral Interface
   - <ins>aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd</ins>
 - UART-Controlled Embedded Application
+  - <ins>helloworld.c</ins>
 - Excel LUT Derivation
+  - <ins></ins>
 - XDC Contraints File
+  - <ins></ins>
