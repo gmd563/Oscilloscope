@@ -13,6 +13,6 @@
 - Assigns RGB values to a given pixel location provided by the Timing Video Generator
 - Displays the oscilloscope grid, waveforms, and trigger markers.
 
-[<ins>text</ins>]()
+[<ins>Scope Face Generator Package</ins>]()
 ## ADC Sampler
 [<ins>text</ins>]()
