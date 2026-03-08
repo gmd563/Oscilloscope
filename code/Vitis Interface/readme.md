@@ -3,9 +3,9 @@
 ![AXI Interface Architecture](/photos/AXI_InterfaceArchitecture.svg)
 ## AXI Wrapper
 ### Top-level AXI Wrapper
-[<ins>aquireToHDMI_AXI.vhd</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI.vhd)
+[aquireToHDMI_AXI.vhd](https://github.com/gmd563/Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI.vhd)
 ### AXI-lite Peripheral Interface
-[<ins>aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd)
+[<ins>aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd)
 ### XDC Contraints File
 [<ins>acquireToHDMI_axi.xdc</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/acquireToHDMI_axi.xdc)
 ## UART-Controlled Embedded Application
