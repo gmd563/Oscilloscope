@@ -15,12 +15,12 @@
 ## Finite State Machine
 ![FSM Architecture](/photos/fsmArchitecture.svg)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[<ins>acquireToHDMI_fsm.vhdl</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine/acquireToHDMI_fsm.vhdl)
+&nbsp;&nbsp;&nbsp;&nbsp;[acquireToHDMI_fsm.vhdl](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine/acquireToHDMI_fsm.vhdl)
 - Initializes the ADC through a reset and startup delays for hardware stability.
 - Controls signal acquisition by coordinating the ADC-handshake, sample storage based on Datapath trigger detection, and the UART-configured sampling interval.
 - Monitors BRAM buffer status and ends sample acquisition once the memory is full.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[<ins>Control Word Table</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine/CW%20Table.xlsx)
+&nbsp;&nbsp;&nbsp;&nbsp;[Control Word Table](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine/CW%20Table.xlsx)
 ## HDMI Display
 &nbsp;&nbsp;&nbsp;&nbsp;[videoSignalGenerator.vhdl](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/HDMI%20Display/videoSignalGenerator.vhdl)
 - Determines the current pixel location and produces the horizontal and vertical sync signals for display rendering.
@@ -29,6 +29,6 @@
 - Assigns RGB values to a given pixel location provided by the Timing Video Generator
 - Displays the oscilloscope grid, waveforms, and trigger markers.
 
-&nbsp;&nbsp;&nbsp;&nbsp;[<ins>scopeToHDMI_package.vhd</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/HDMI%20Display/scopeToHdmi_package.vhd)
+&nbsp;&nbsp;&nbsp;&nbsp;[scopeToHDMI_package.vhd](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/HDMI%20Display/scopeToHdmi_package.vhd)
 ## ADC Sampler
-&nbsp;&nbsp;&nbsp;&nbsp;[<ins>AN7606</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/an7606.vhd)
+&nbsp;&nbsp;&nbsp;&nbsp;[an7606.vhd](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/an7606.vhd)
