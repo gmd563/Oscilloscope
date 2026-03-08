@@ -14,9 +14,13 @@
 - FSM acquisition control
 - Simple dual-port BRAM
 - AXI-lite control interface
+### Top-level
+![Screenshot of Top-level Arhcitecture](/photos/)
 ### Datapath and Control
-![Screenshot of Datapath and Control Arhcitecture](/photos/datapathArchitecture.png)
+![Screenshot of Datapath and Control Arhcitecture](/photos/)
 ### Finite State Machine
-![Screenshot of FSM Architecture](/photos/fsmArchitecture.svg)
+![FSM Architecture](/photos/fsmArchitecture.svg)
 ### AXI-lite Control Interface
 ![AXI Interface Architecture](/photos/AXI_InterfaceArchitecture.svg)
+### Top-level + Datapath and Control
+![Top-level + Datapath and Control Arhcitecture](/photos/Architecture.png)
