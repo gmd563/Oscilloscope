@@ -17,7 +17,7 @@ and [Form Factor]()
 [Schematic]()
 
 &nbsp;&nbsp;&nbsp;&nbsp;**<ins>ADC Daughter Board</ins> &rarr; AD7606 Daughter Board**
-[Schematic]()
+[Schematic](/photos/ALINXdaughterSchematic.pdf)
 ## Features
 - Real-time signal acquisition
 - Edge-trigger detection
