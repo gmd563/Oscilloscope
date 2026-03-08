@@ -1,4 +1,6 @@
 # Vitis Interface
+## Architecture
+![AXI Interface Architecture](/photos/AXI_InterfaceArchitecture.svg)
 ## AXI Wrapper
 ### Top-level AXI Wrapper
 [<ins>aquireToHDMI_AXI.vhd</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI.vhd)
@@ -10,5 +12,3 @@
 [<ins>helloworld.c</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/helloworld.c)
 ## Excel LUT Derivation
 [<ins>sinc wave table.xlsx</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/sinc%20wave%20table.xlsx)
-# Architecture
-![Screenshot of AXI Interface Architecture](/photos/AXI_InterfaceArchitecture.png)
