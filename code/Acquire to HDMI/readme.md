@@ -1,5 +1,6 @@
 # Acquire to HDMI
 ## Top-level Synthesis
+![Top-level Architecture](/photos/acquireToHDMI.png)
 [**Top-level Synthesis README**](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI/files/Top-level%20Synthesis)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[acquireToHDMI.vhd](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Top-level%20Synthesis/acquireToHDMI.vhd)
