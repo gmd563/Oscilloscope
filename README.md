@@ -1,6 +1,6 @@
 # FPGA-Oscilloscope
 ## HDL Files and Documentation
-### Oscilloscope
+&nbsp;&nbsp;&nbsp;&nbsp;**Oscilloscope**
 [Acquire to HDMI](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI)
 
 ## Hardware
