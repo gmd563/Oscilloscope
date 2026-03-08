@@ -23,4 +23,4 @@
 ### AXI-lite Control Interface
 ![AXI Interface Architecture](/photos/AXI_InterfaceArchitecture.svg)
 ### Top-level + Datapath and Control
-![Top-level + Datapath and Control Arhcitecture](/photos/Architecture.png)
+![Top-level + Datapath and Control Arhcitecture](/photos/topLevel_and_datapathArchitecture.png)
