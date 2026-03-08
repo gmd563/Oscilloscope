@@ -18,11 +18,13 @@ Hardware Documentation\
 - AXI_Lite interface for Vitis configuration.
 ## Technologies
 - **FPGA:** AX7010 (Xilinx Zynq-7010)
-- **Languages:** VHDL , C
-- **Interfaces:** ADC , HDMI , UART.
-- **Memory:** Simple Dual-Port BRAM , AXI Peripheral Registers.
-- **Design Platforms:** Vivado , Vitis.
+- **HDL:** VHDL
+- **Embedded Software:** C
+- **Interfaces:** ADC , HDMI , UART
+- **Memory Architecture:** Simple Dual-Port BRAM , AXI-Lite Peripheral Registers
+- **Development Tools:** Vivado , Vitis
 
+## Images
 ### HDMI Display & Waveform (! ! ! ADD ! ! !)
 ![Photo of Display and Waveform](/photos/)
 ### Top-level + Datapath and Control
