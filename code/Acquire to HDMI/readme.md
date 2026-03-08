@@ -12,8 +12,9 @@
 - Detects trigger events for Channels 1 and 2 to assist Finite State Machine.
 ### Finite State Machine
 [<ins>Finite State Machine</ins>]()
-- Initializes the ADC with a reset and startup delays.
-- Controls sampling acquisition by coordinating ADC-handshake, sample storage based on Datapath trigger detection, and sampling interval configured through UART commands.
+- Initializes the ADC through a reset and startup delays for hardware stability.
+- Controls signal acquisition by coordinating the ADC-handshake, sample storage based on Datapath trigger detection, and the UART-configured sampling interval.
+- Monitors BRAM buffer status and ends sample aquisition once the memory is full.
 
 [<ins>Control Word Table</ins>]()
 ## HDMI Display
