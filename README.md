@@ -3,6 +3,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Oscilloscope**
 [Acquire to HDMI](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI)
 
+&nbsp;&nbsp;&nbsp;&nbsp;**Vitis Interface**
+[AXI4-Lite and Embedded C Firmware](https://github.com/gmd563/Oscilloscope/tree/main/code/Vitis%20Interface)
 ## Hardware
 - Alinx AX7010 FPGA
 - ADC input
