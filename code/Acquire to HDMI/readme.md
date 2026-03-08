@@ -18,13 +18,13 @@
 
 [<ins>Control Word Table</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine/CW%20Table.xlsx)
 ## HDMI Display
-[<ins>Video Timing Generator</ins>]()
+[<ins>Video Timing Generator</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/HDMI%20Display/videoSignalGenerator.vhdl)
 - Determines the current pixel location and produces the horizontal and verticle sync signals for display rendering.
 
-[<ins>Scope Face Generator</ins>]()
+[<ins>Scope Face Generator</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/HDMI%20Display/scopeFace.vhd)
 - Assigns RGB values to a given pixel location provided by the Timing Video Generator
 - Displays the oscilloscope grid, waveforms, and trigger markers.
 
-[<ins>Scope Face Generator Package</ins>]()
+[<ins>Scope Face Generator Package</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/HDMI%20Display/scopeToHdmi_package.vhd)
 ## ADC Sampler
 [<ins>text</ins>]()
