@@ -8,7 +8,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[acquireToHDMI_package.vhd](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Top-level%20Synthesis/acquireToHDMI_package.vhd)
 ## Datapath and Control
 ![Datapath and Control Arhcitecture](/photos/acquireToHdmi_datapath.png)
-[**Datapath and Control README**](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI/files/Datapath%20and%20Control)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[acquireToHDMI_datapath.vhdl](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Datapath%20and%20Control/acquireToHDMI_datapath.vhdl)
 - Stores and reads ADC samples in two simple dual-port BRAMs, one for each channel.
@@ -16,7 +15,7 @@
 - Compares the signed pixel value with the current vertical pixel position for waveform display in the Scope Face Generator.
 - Detects trigger events for Channels 1 and 2 to assist Finite State Machine.
 ## Finite State Machine
-[**Finite State Machine README**](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine)
+![FSM Architecture](/photos/fsmArchitecture.svg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[<ins>acquireToHDMI_fsm.vhdl</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine/acquireToHDMI_fsm.vhdl)
 - Initializes the ADC through a reset and startup delays for hardware stability.
@@ -25,8 +24,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[<ins>Control Word Table</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine/CW%20Table.xlsx)
 ## HDMI Display
-[**HDMI Display README**](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI/files/HDMI%20Display)
-
 &nbsp;&nbsp;&nbsp;&nbsp;[videoSignalGenerator.vhdl](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/HDMI%20Display/videoSignalGenerator.vhdl)
 - Determines the current pixel location and produces the horizontal and vertical sync signals for display rendering.
 
