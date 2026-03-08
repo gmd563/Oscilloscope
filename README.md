@@ -5,6 +5,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Vitis Interface**
 [AXI4-Lite and Embedded C Firmware](https://github.com/gmd563/Oscilloscope/tree/main/code/Vitis%20Interface)
+
+&nbsp;&nbsp;&nbsp;&nbsp;**AX7010**
+Board [Schematic]() ,
+[Layout]() ,
+and [Form Factor]()
 ## Hardware
 - Alinx AX7010 FPGA
 - ADC input
