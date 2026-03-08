@@ -20,16 +20,16 @@ Hardware Documentation\
 - **FPGA:** AX7010 (Xilinx Zynq-7010)
 - **HDL:** VHDL
 - **Embedded Software:** C
-- **Interfaces:** ADC , HDMI , UART
+- **Interfaces:** ADC , HDMI , AXI-Lite, UART
 - **Memory Architecture:** Simple Dual-Port BRAM , AXI-Lite Peripheral Registers
 - **Development Tools:** Vivado , Vitis
 
-## Images
-### HDMI Display & Waveform (! ! ! ADD ! ! !)
-![Photo of Display and Waveform](/photos/)
-### Top-level + Datapath and Control
+<!--## Images-->
+<!--### HDMI Display & Waveform (! ! ! ADD ! ! !)-->
+<!--![Photo of Display and Waveform](/photos/)-->
+## Top-level + Datapath and Control
 ![Top-level + Datapath and Control Arhcitecture](/photos/topLevel_and_datapathArchitecture.png)
-### Finite State Machine
+## Finite State Machine
 ![FSM Architecture](/photos/fsmArchitecture.svg)
-### AXI-lite Control Interface
+## AXI-Lite Control Interface
 ![AXI Interface Architecture](/photos/AXI_InterfaceArchitecture.svg)
