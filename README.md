@@ -31,5 +31,5 @@ Hardware Documentation\
 ![Top-level + Datapath and Control Arhcitecture](/photos/topLevel_and_datapathArchitecture.png)
 ## Finite State Machine
 ![FSM Architecture](/photos/fsmArchitecture.svg)
-## AXI-Lite Control Interface
+## AXI-Lite Interface
 ![AXI Interface Architecture](/photos/AXI_InterfaceArchitecture.svg)
