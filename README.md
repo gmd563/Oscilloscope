@@ -9,15 +9,22 @@ Hardware Documentation\
 &nbsp;&nbsp;&nbsp;&nbsp;ADC &rarr; **AD7606** [Schematic](/photos/AD7606_Schematic.pdf)\
 &nbsp;&nbsp;&nbsp;&nbsp;ADC Daughter Board &rarr; **AD7606 Daughter Board** [Schematic](/photos/ALINXdaughterSchematic.pdf)
 ## Features
-- Real-time signal acquisition
-- Edge-trigger detection
-- Adjustable voltage and trigger markers
-- Sine and sinc waveform generator
-## Architecture
-- RTL datapath and control
-- FSM acquisition control
-- Simple dual-port BRAM
-- AXI-lite control interface
+- Real-time ADC signal acquisition.
+- Edge-trigger detection for FSM-controlled sampling.
+- Two simple dual-port BRAM buffering.
+- HDMI video display pipeline.
+- Adjustable voltage and trigger markers.
+- UART-controlled sine and sinc waveform generator.
+- AXI_Lite interface for Vitis configuration.
+## Technologies
+- **FPGA:** AX7010 (Xilinx Zynq-7010)
+- **Languages:** VHDL , C
+- **Interfaces:** ADC , HDMI , UART.
+- **Memory:** Simple Dual-Port BRAM , AXI Peripheral Registers.
+- **Design Platforms:** Vivado , Vitis.
+
+### HDMI Display & Waveform (! ! ! ADD ! ! !)
+![Photo of Display and Waveform](/photos/)
 ### Top-level + Datapath and Control
 ![Top-level + Datapath and Control Arhcitecture](/photos/topLevel_and_datapathArchitecture.png)
 ### Finite State Machine
