@@ -3,7 +3,7 @@
 [<ins>Top-level Synthesis Module</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Top-level%20Synthesis/acquireToHDMI.vhd)
 - Coordinates ADC sample acquisition, datapath processing, and HDMI display.
 
-[<ins>Top-level Synthesis Package</ins>]()
+[<ins>Top-level Synthesis Package</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Top-level%20Synthesis/acquireToHDMI_package.vhd)
 ### Datapath and Control
 [<ins>Datapath and Control</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Datapath%20and%20Control/acquireToHDMI_datapath.vhdl)
 - Stores and reads ADC samples in two simple dual-port BRAMs, one for each channel.
