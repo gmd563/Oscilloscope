@@ -1,22 +1,23 @@
 # FPGA-Oscilloscope
-## HDL Files and Documentation
+## HDL Files and Hardware Documentation
+HDL Files\
 &nbsp;&nbsp;&nbsp;&nbsp;**Oscilloscope**
 [Acquire to HDMI](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Vitis Interface**
 [AXI4-Lite and Embedded C Firmware](https://github.com/gmd563/Oscilloscope/tree/main/code/Vitis%20Interface)
 
-&nbsp;&nbsp;&nbsp;&nbsp;**FPGA &rarr; AX7010**
+Hardware Documentation\
+&nbsp;&nbsp;&nbsp;&nbsp;**<ins>FPGA</ins> &rarr; AX7010**
 [Schematic]() ,
 [Layout]() ,
 and [Form Factor]()
 
-&nbsp;&nbsp;&nbsp;&nbsp;**ADC &rarr; AN7606**
+&nbsp;&nbsp;&nbsp;&nbsp;**<ins>ADC</ins> &rarr; AD7606**
 [Schematic]()
-## Hardware
-- Alinx AX7010 FPGA
-- ADC input
-- HDMI output
+
+&nbsp;&nbsp;&nbsp;&nbsp;**<ins>ADC Daughter Board</ins> &rarr; AD7606 Daughter Board**
+[Schematic]()
 ## Features
 - Real-time signal acquisition
 - Edge-trigger detection
