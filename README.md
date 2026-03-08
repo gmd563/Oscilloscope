@@ -15,9 +15,9 @@
 - Simple dual-port BRAM
 - AXI-lite control interface
 ### Top-level
-![Screenshot of Top-level Arhcitecture](/photos/acquireToHDM.png)
+![Screenshot of Top-level Arhcitecture](/photos/acquireToHDMI.png)
 ### Datapath and Control
-![Screenshot of Datapath and Control Arhcitecture](/photos/acquireToHDMI_datapath.png)
+![Screenshot of Datapath and Control Arhcitecture](/photos/acquireToHdmi_datapath.png)
 ### Finite State Machine
 ![FSM Architecture](/photos/fsmArchitecture.svg)
 ### AXI-lite Control Interface
