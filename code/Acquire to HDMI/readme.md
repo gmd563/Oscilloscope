@@ -8,6 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[acquireToHDMI_package.vhd](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Top-level%20Synthesis/acquireToHDMI_package.vhd)
 ## Datapath and Control
+![Datapath and Control Arhcitecture](/photos/acquireToHdmi_datapath.png)
 [**Datapath and Control README**](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI/files/Datapath%20and%20Control)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[acquireToHDMI_datapath.vhdl](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Datapath%20and%20Control/acquireToHDMI_datapath.vhdl)
