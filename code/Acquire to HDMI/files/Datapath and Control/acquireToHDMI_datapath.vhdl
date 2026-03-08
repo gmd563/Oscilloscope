@@ -1,5 +1,5 @@
  --------------------------------------------------------------------
--- Name:	Chris Coulston
+-- Name:	Grace Davis
 -- Date:	Feb 3, 2015
 -- Modified:	Sept 2022
 -- File:	acquireToHDMI_Datapath.vhdl
