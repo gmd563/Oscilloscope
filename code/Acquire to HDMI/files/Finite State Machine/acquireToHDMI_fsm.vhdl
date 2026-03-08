@@ -1,6 +1,6 @@
 --------------------------------------------------------------------
 -- Name:	Grace Davis
--- Date:	DEC 3, 2015
+-- Date:	DEC 3, 2025
 -- File:	acquireToHDMI_fsm.vhdl
 --
 -- Purp: The control unit for the audio O'scope
