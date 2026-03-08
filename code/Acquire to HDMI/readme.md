@@ -27,4 +27,4 @@
 
 [<ins>Scope Face Generator Package</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/HDMI%20Display/scopeToHdmi_package.vhd)
 ## ADC Sampler
-[<ins>text</ins>]()
+[<ins>text</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/an7606.vhd)
