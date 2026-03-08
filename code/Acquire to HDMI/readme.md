@@ -1,6 +1,6 @@
 # Acquire to HDMI
 ## Top-level Synthesis
-[<ins>Top-level Synthesis Module</ins>]()
+[<ins>Top-level Synthesis Module</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Top-level%20Synthesis/acquireToHDMI.vhd)
 - Coordinates ADC sample acquisition, datapath processing, and HDMI display.
 
 [<ins>Top-level Synthesis Package</ins>]()
