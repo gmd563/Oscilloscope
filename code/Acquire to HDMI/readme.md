@@ -11,7 +11,7 @@
 - Compares the signed pixel value with the current vertical pixel position for waveform display in the Scope Face Generator.
 - Detects trigger events for Channels 1 and 2 to assist Finite State Machine.
 ### Finite State Machine
-[<ins>Finite State Machine</ins>]()
+[<ins>Finite State Machine</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine/acquireToHDMI_fsm.vhdl)
 - Initializes the ADC through a reset and startup delays for hardware stability.
 - Controls signal acquisition by coordinating the ADC-handshake, sample storage based on Datapath trigger detection, and the UART-configured sampling interval.
 - Monitors BRAM buffer status and ends sample aquisition once the memory is full.
