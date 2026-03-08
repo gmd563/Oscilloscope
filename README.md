@@ -1,8 +1,8 @@
 # FPGA-Oscilloscope
 ## HDL Files and Hardware Documentation
-HDL Files
-- **Oscilloscope** [Acquire to HDMI](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI)
-- **Vitis Interface** [AXI4-Lite and Embedded C Firmware](https://github.com/gmd563/Oscilloscope/tree/main/code/Vitis%20Interface)
+HDL Files\
+&nbsp;&nbsp;&nbsp;&nbsp;**Oscilloscope** [Acquire to HDMI](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI)\
+&nbsp;&nbsp;&nbsp;&nbsp;**Vitis Interface** [AXI4-Lite and Embedded C Firmware](https://github.com/gmd563/Oscilloscope/tree/main/code/Vitis%20Interface)
 
 Hardware Documentation
 - FPGA &rarr; **AX7010** [Schematic](/photos/AX7010_BoardSchematic.pdf) , [Layout](/photos/AX7010_BoardPCB.pdf) , and [Form Factor](/photos/AX7010_FormFactors.pdf)
