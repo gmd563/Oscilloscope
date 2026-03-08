@@ -1,5 +1,8 @@
 # FPGA-Oscilloscope
-[HDL Files and Documentation](https://github.com/gmd563/Oscilloscope/tree/main/code)
+## HDL Files and Documentation
+### Oscilloscope
+[Acquire to HDMI](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI)
+
 ## Hardware
 - Alinx AX7010 FPGA
 - ADC input
