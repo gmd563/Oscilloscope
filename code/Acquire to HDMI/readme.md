@@ -16,7 +16,7 @@
 - Controls signal acquisition by coordinating the ADC-handshake, sample storage based on Datapath trigger detection, and the UART-configured sampling interval.
 - Monitors BRAM buffer status and ends sample aquisition once the memory is full.
 
-[<ins>Control Word Table</ins>]()
+[<ins>Control Word Table</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Acquire%20to%20HDMI/files/Finite%20State%20Machine/CW%20Table.xlsx)
 ## HDMI Display
 [<ins>Video Timing Generator</ins>]()
 - Determines the current pixel location and produces the horizontal and verticle sync signals for display rendering.
