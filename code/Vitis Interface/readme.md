@@ -1,7 +1,8 @@
 # Vitis Interface
-## Top-level AXI Wrapper
+## AXI Wrapper
+### Top-level AXI Wrapper
 [<ins>aquireToHDMI_AXI.vhd</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI.vhd)
-## AXI-lite Peripheral Interface
+### AXI-lite Peripheral Interface
 [<ins>aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd)
 ## UART-Controlled Embedded Application
 [<ins>helloworld.c</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/helloworld.c)
