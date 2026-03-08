@@ -5,10 +5,10 @@
 ### Top-level AXI Wrapper
 [aquireToHDMI_AXI.vhd](https://github.com/gmd563/Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI.vhd)
 ### AXI-lite Peripheral Interface
-[<ins>aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd</ins>](https://github.com/gmd563/Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd)
+[aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd](https://github.com/gmd563/Oscilloscope/blob/main/code/Vitis%20Interface/files/aquireToHDMI_AXI_slave_lite_v1_0_S00_AXI.vhd)
 ### XDC Contraints File
-[<ins>acquireToHDMI_axi.xdc</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/acquireToHDMI_axi.xdc)
+[acquireToHDMI_axi.xdc](https://github.com/gmd563/Oscilloscope/blob/main/code/Vitis%20Interface/files/acquireToHDMI_axi.xdc)
 ## UART-Controlled Embedded Application
-[<ins>helloworld.c</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/helloworld.c)
+[helloworld.c](https://github.com/gmd563/Oscilloscope/blob/main/code/Vitis%20Interface/files/helloworld.c)
 ## Excel LUT Derivation
-[<ins>sinc wave table.xlsx</ins>](https://github.com/gmd563/FPGA-Oscilloscope/blob/main/code/Vitis%20Interface/files/sinc%20wave%20table.xlsx)
+[sinc wave table.xlsx](https://github.com/gmd563/Oscilloscope/blob/main/code/Vitis%20Interface/files/sinc%20wave%20table.xlsx)
