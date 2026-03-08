@@ -1,5 +1,5 @@
 # FPGA-Oscilloscope
-HDL Files and Documentation
+[HDL Files and Documentation](https://github.com/gmd563/Oscilloscope/tree/main/code)
 ## Hardware
 - Alinx AX7010 FPGA
 - ADC input
