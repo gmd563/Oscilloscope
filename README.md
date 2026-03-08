@@ -9,12 +9,12 @@ HDL Files\
 
 Hardware Documentation\
 &nbsp;&nbsp;&nbsp;&nbsp;**<ins>FPGA</ins> &rarr; AX7010**
-[Schematic]() ,
-[Layout]() ,
-and [Form Factor]()
+[Schematic](/photos/AX7010 Board Schematic.pdf) ,
+[Layout](/photos/AX7010 Board PCB.pdf) ,
+and [Form Factor](/photos/AX7010 Form Factors.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**<ins>ADC</ins> &rarr; AD7606**
-[Schematic]()
+[Schematic](/photos/AD7606 Schematic.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**<ins>ADC Daughter Board</ins> &rarr; AD7606 Daughter Board**
 [Schematic](/photos/ALINXdaughterSchematic.pdf)
