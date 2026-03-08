@@ -13,9 +13,7 @@
 ### Finite State Machine
 [<ins>Finite State Machine</ins>]()
 - Initializes the ADC with a reset and startup delays.
-- Controls the sampling acquisition through storage control based on Datapath trigger detection and ADC-handshake.
-- interval, and storage.
-- Regulates ADC conversion with 
+- Controls sampling acquisition by coordinating ADC-handshake, sample storage based on Datapath trigger detection, and sampling interval configured through UART commands.
 
 [<ins>Control Word Table</ins>]()
 ## HDMI Display
