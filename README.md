@@ -1,23 +1,13 @@
 # FPGA-Oscilloscope
 ## HDL Files and Hardware Documentation
-HDL Files\
-&nbsp;&nbsp;&nbsp;&nbsp;**Oscilloscope**
-[Acquire to HDMI](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI)
+HDL Files
+- **Oscilloscope** [Acquire to HDMI](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI)
+- **Vitis Interface** [AXI4-Lite and Embedded C Firmware](https://github.com/gmd563/Oscilloscope/tree/main/code/Vitis%20Interface)
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Vitis Interface**
-[AXI4-Lite and Embedded C Firmware](https://github.com/gmd563/Oscilloscope/tree/main/code/Vitis%20Interface)
-
-Hardware Documentation\
-&nbsp;&nbsp;&nbsp;&nbsp;**<ins>FPGA</ins> &rarr; AX7010**
-[Schematic](/photos/AX7010_BoardSchematic.pdf) ,
-[Layout](/photos/AX7010_BoardPCB.pdf) ,
-and [Form Factor](/photos/AX7010_FormFactors.pdf)
-
-&nbsp;&nbsp;&nbsp;&nbsp;**<ins>ADC</ins> &rarr; AD7606**
-[Schematic](/photos/AD7606_Schematic.pdf)
-
-&nbsp;&nbsp;&nbsp;&nbsp;**<ins>ADC Daughter Board</ins> &rarr; AD7606 Daughter Board**
-[Schematic](/photos/ALINXdaughterSchematic.pdf)
+Hardware Documentation
+- FPGA &rarr; **AX7010** [Schematic](/photos/AX7010_BoardSchematic.pdf) , [Layout](/photos/AX7010_BoardPCB.pdf) , and [Form Factor](/photos/AX7010_FormFactors.pdf)
+- ADC &rarr; **AD7606** [Schematic](/photos/AD7606_Schematic.pdf)
+- ADC Daughter Board &rarr; **AD7606 Daughter Board** [Schematic](/photos/ALINXdaughterSchematic.pdf)
 ## Features
 - Real-time signal acquisition
 - Edge-trigger detection
