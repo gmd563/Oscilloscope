@@ -1,4 +1,5 @@
 # FPGA-Oscilloscope
+HDL Files and Documentation
 ## Hardware
 - Alinx AX7010 FPGA
 - ADC input
