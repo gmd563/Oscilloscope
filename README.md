@@ -17,6 +17,6 @@
 ### Datapath and Control
 ![Screenshot of Datapath and Control Arhcitecture](/photos/datapathArchitecture.png)
 ### Finite State Machine
-![Screenshot of FSM Architecture](/photos/fsmArchitecture.png)
+![Screenshot of FSM Architecture](/photos/fsmArchitecture.svg)
 ### AXI-lite Control Interface
 ![AXI Interface Architecture](/photos/AXI_InterfaceArchitecture.svg)
