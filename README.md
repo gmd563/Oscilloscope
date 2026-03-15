@@ -33,7 +33,7 @@ Hardware Documentation\
 <!--## Images-->
 <!--### HDMI Display & Waveform (! ! ! ADD ! ! !)-->
 <!--![Photo of Display and Waveform](/photos/)-->
-## Top-level + Datapath and Control
+## Top-level + RTL Datapath and Control
 ![Top-level + Datapath and Control Arhcitecture](/photos/topLevel_and_datapathArchitecture.png)
 ## Finite State Machine
 ![FSM Architecture](/photos/fsmArchitecture.svg)
