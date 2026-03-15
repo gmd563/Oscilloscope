@@ -24,12 +24,12 @@ Hardware Documentation\
 - **Memory Architecture:** Simple Dual-Port BRAM , AXI-Lite Peripheral Registers
 - **Development Tools:** Vivado , Vitis
 ## Oscilloscope Images
-**CH1** - Yellow      **CH2** - Green
+- **CH1** - Yellow
+- **CH2** - Green
 ### Sine Waves
 ![Photo of Sine Waveforms](/photos/sine.jpeg)
-CH1 - Yellow | Freq = 500Hz\
-CH2 - Green | Freq = 900Hz
-
+### Sine and Sinc Waves
+![Photo of Sine and Sinc Waveforms](/photos/sine_and_sinc.jpeg)
 <!--## Images-->
 <!--### HDMI Display & Waveform (! ! ! ADD ! ! !)-->
 <!--![Photo of Display and Waveform](/photos/)-->
