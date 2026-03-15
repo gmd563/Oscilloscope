@@ -1,8 +1,4 @@
 # FPGA-Oscilloscope
-<!--### HDMI Display & Waveform (! ! ! ADD ! ! !)-->
-<!-- CH1 - Yellow | 500Hz -->
-<!-- CH2 - Green | 900Hz-->
-![Photo of Sine Waveforms](/photos/sine.jpeg)
 ## HDL Files and Hardware Documentation
 HDL Files\
 &nbsp;&nbsp;&nbsp;&nbsp;**Oscilloscope** [Acquire to HDMI](https://github.com/gmd563/Oscilloscope/tree/main/code/Acquire%20to%20HDMI)\
@@ -27,6 +23,10 @@ Hardware Documentation\
 - **Interfaces:** ADC , HDMI , AXI-Lite, UART
 - **Memory Architecture:** Simple Dual-Port BRAM , AXI-Lite Peripheral Registers
 - **Development Tools:** Vivado , Vitis
+## Oscilloscope Images
+<!-- CH1 - Yellow | 500Hz -->
+<!-- CH2 - Green | 900Hz-->
+![Photo of Sine Waveforms](/photos/sine.jpeg)
 
 <!--## Images-->
 <!--### HDMI Display & Waveform (! ! ! ADD ! ! !)-->
